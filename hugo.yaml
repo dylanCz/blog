@@ -74,9 +74,8 @@ params:
     Title: "Hey, I'm Dylan!"
     Content: |
       Welcome to my blog. I'm a Platform Engineer, DevSecOps Enthusiast and Esports Fan.
-      - [Writing](../archives)
-      - [Projects](../projects)
-      - [Recipes](../recipes)
+      - [Writing](/blog/archives)
+      - [Projects](/blog/projects)
 
   socialIcons:
     - name: bluesky
