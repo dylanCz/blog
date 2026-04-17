@@ -16,7 +16,7 @@ const (
 )
 
 type FrontMatter struct {
-	Published bool `yaml:"publish"`
+	Published string `yaml:"publish"`
 }
 
 func parseFrontMatter(path string) (FrontMatter, error) {
@@ -74,7 +74,7 @@ func main() {
 			continue
 		}
 
-		if fm.Published {
+		if fm.Published == "true" {
 			dst := filepath.Join(hugoPostDir, entry.Name())
 			if err := copyFile(src, dst); err != nil {
 				fmt.Printf("Error copying %s: %v\n", entry.Name(), err)
