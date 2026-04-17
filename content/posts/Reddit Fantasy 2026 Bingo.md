@@ -1,5 +1,5 @@
 ---
-title: Reddit Fantasy Bingo
+title: Reddit Fantasy 2026 Bingo
 date: 2026-04-01
 tags:
   - lists
