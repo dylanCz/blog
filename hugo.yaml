@@ -1,4 +1,4 @@
-baseURL: "https://dylanclark.dev/blog"
+baseURL: "https://dylanclark.dev/"
 title: Dylan Clark
 paginate: 5
 theme: PaperMod
@@ -74,8 +74,8 @@ params:
     Title: "Hey, I'm Dylan!"
     Content: |
       Welcome to my blog. I'm a Platform Engineer, DevSecOps Enthusiast and Esports Fan.
-      - [Writing](/blog/archives)
-      - [Projects](/blog/projects)
+      - [Writing](/archives)
+      - [Projects](/projects)
 
   socialIcons:
     - name: bluesky
