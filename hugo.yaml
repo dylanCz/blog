@@ -111,7 +111,7 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: Now
+    - identifier: now
       name: now
       url: /now
       weight: 10
@@ -119,8 +119,8 @@ menu:
     #   name: Diary
     #   url: /diary
     #   weight: 20
-    - identifier: archives
-      name: archives
+    - identifier: archive
+      name: archive
       url: /archives
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
