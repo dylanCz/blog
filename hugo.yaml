@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://dylanclark.dev/blog"
 title: Dylan Clark
 paginate: 5
 theme: PaperMod
@@ -13,7 +13,7 @@ minify:
   minifyOutput: true
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  # env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Dylan's Blog
   description: "Dylan's Blog"
   keywords: [Blog, Portfolio, PaperMod]
