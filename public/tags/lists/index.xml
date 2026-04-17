@@ -2,10 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Lists on Dylan Clark</title>
-    <link>http://localhost:1313/tags/lists/</link>
+    <link>http://localhost:1313/blog/tags/lists/</link>
     <description>Recent content in Lists on Dylan Clark</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/tags/lists/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/lists/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BFI Top 20 Greatest Films of All Time</title>
+      <link>http://localhost:1313/blog/posts/bfi-top-20-greatest-films-of-all-time/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/posts/bfi-top-20-greatest-films-of-all-time/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time&#34;&gt;The list can be found here.&lt;/a&gt;
+Top 20:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Seven Samurai - Akira Kurosawa&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Apocalypse Now - Francis Ford Coppola&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Persona - Ingmar Bergman&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Close-up - Abbas Kiarostami&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Meshes of the Afternoon - Maya Deren&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The Searchers - John Ford&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Cleo from 5 to 7 - Agnes Varda&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; La Regle du jeu - Jean Renoir&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The Godfather - Francis Ford Coppola&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Sunrise A Song of Two Humans - F.W. Murnau&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Singin&amp;rsquo; in the Rain - Gene Kelly&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Man with a Movie Camera - Dziga Vertov&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Mulholland Drive - David Lynch&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Beau Travail - Claire Denis&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 2001: A Space Odyssey - Stanley Kubrick&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; In the Mood for Love - Wong Kar Wai&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Tokyo Story - Yasujiro Ozu&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Citizen Kane - Orson Welles&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Vertigo - Alfred Hitchcock&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles - Chantal Akerman&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -45,9 +45,8 @@ $paginator := .Paginate $pages }} {{- if and .IsHome site.Params.homeInfoParams
 
     {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
 
-    <a class="post-tag" href="/tags/{{ $name | urlize }}/"
-        >{{ $name }} ({{ len $taxonomy }})</a
-    >
+    <!--<a class="post-tag" href="/tags/{{ $name | urlize }}/">{{ $name }} ({{ len $taxonomy }})</a>-->
+    <a class="post-tag" href="{{ "/tags/" | relURL }}{{ $name | urlize }}/">{{ $name }} ({{ len $taxonomy }})</a>
     {{ end }}
 </div>
 {{- end }} {{- $term := .Data.Term }} {{- if not .IsHome }} {{- range $index, $page :=
