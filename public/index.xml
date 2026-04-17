@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dylan Clark</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Dylan Clark</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/now/</guid>
+      <description>&lt;h1 id=&#34;what-im-doing-now&#34;&gt;What I&amp;rsquo;m doing now&lt;/h1&gt;
+&lt;p&gt;Hello! My name is Dylan Clark and I&amp;rsquo;m currently a Senior DevOps
+Engineer from Scotland. I work at Smarter Grid Solutions with
+an incredible team of people to help customers manage their DER
+(distributed energy resources). I&amp;rsquo;m part of the DevOps team,
+where I focus on automating and optimizing our infrastructure
+and deployments.&lt;/p&gt;
+&lt;p&gt;Before joining the DevOps team, I worked as a Software Engineer
+at Smarter Grid Solutions. I was involved in the development of
+Java Springboot micro-services, as we transitioned our flagship
+product from a monolithic architecture to a microservices
+architecture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;homelab&#34;&gt;&lt;a href=&#34;https://github.com/dylanCz/homelab&#34;&gt;Homelab&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;My personal homelab built with Docker.&lt;/p&gt;
+&lt;h2 id=&#34;stateless-pokepaste&#34;&gt;&lt;a href=&#34;https://github.com/dylanCz/poke2pastes&#34;&gt;Stateless Pokepaste&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;A stateless implementation of pokepast.es&lt;/p&gt;
+&lt;h2 id=&#34;obsidian-static-site&#34;&gt;&lt;a href=&#34;../posts/obsidian&#34;&gt;Obsidian Static Site&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This site!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
