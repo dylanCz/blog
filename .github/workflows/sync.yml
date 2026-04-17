@@ -12,10 +12,10 @@ jobs:
           contents: write
     steps:
       - name: Checkout Hugo site
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Checkout Obsidian vault
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: dylanCz/obsidian
           token: ${{ secrets.OBSIDIAN_PAT }}
