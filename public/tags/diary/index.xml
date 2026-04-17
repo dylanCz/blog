@@ -2,10 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Diary on Dylan Clark</title>
-    <link>http://localhost:1313/tags/diary/</link>
+    <link>http://localhost:1313/blog/tags/diary/</link>
     <description>Recent content in Diary on Dylan Clark</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/tags/diary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/diary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 Q1 Recap</title>
+      <link>http://localhost:1313/blog/posts/2026-q1-recap/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/posts/2026-q1-recap/</guid>
+      <description>&lt;h2 id=&#34;january-march&#34;&gt;January-March&lt;/h2&gt;
+&lt;h3 id=&#34;updates&#34;&gt;Updates&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;I&amp;rsquo;ve started taking my SSBM practise a little bit more seriously. After some disappointment of not being on the Scottish PR and poor tournaments results in 2025, I want to take a push this year to see how far I can go. For now I&amp;rsquo;m focused on playing more high level opponents, analysing my gameplay more often and watching higher level falcos.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;d quite like to give another fighting game a shot. I don&amp;rsquo;t think anything will replace SSBM for me but it would be cool to have another game and community to be involved with. The two I&amp;rsquo;m considering are GGACR and MBAACC. I&amp;rsquo;ll maybe enter a tournament for each of them and see how I feel!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;created&#34;&gt;Created&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The start of this year has been slow, I&amp;rsquo;ve mostly been working on this website and a small Golang project to help with slippi replay exporting. Other slp2mp4 style tools exist but I just want some experience with Golang and to have a tool I can tailor to my own needs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;discovered&#34;&gt;Discovered&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://planetbanatt.net&#34;&gt;Eryk &amp;ldquo;Ambisinister&amp;rdquo; Banatt&amp;rsquo;s website&lt;/a&gt;, a treasure trove of ML/SSBM/Cognitive Science resources (and the almost sole inspiration for this page)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://craigjohnson.notion.site/Falco-Discord-Resource-Compilation-3bc9633b641e4df4b531130579d1d051&#34;&gt;Falco Discord Resource Compilation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLLGT0cEMIAzeq_YFR_iHm831-GuOWlwUJ&#34;&gt;Ludwig and Michael&amp;rsquo;s Tip to Tip Japan series&lt;/a&gt;, best youtube series I&amp;rsquo;ve watched so far&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=321SvY8gDyc&#34;&gt;Liam - How I Ruined Ludwig&amp;rsquo;s Minecraft Tournament&lt;/a&gt;, best youtube video I&amp;rsquo;ve watched so far&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;albums&#34;&gt;Albums&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;underscores - U&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Hemlocke Springs - the apple tree under the sea&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Mandy, Indiana - URGH&lt;/li&gt;
+&lt;li&gt;Cardinals - Masquerade&lt;/li&gt;
+&lt;li&gt;Mitski - Nothing&amp;rsquo;s About to Happen to Me&lt;/li&gt;
+&lt;li&gt;By Storm - My Ghosts Go Ghost&lt;/li&gt;
+&lt;li&gt;Danny L Harle - Cerulean&lt;/li&gt;
+&lt;li&gt;Apparat - A Hum Of Maybe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;books&#34;&gt;Books&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Agatha Christie - The Murder of Roger Ackroyd&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Brandon Sanderson - The Well of Ascension&lt;/li&gt;
+&lt;li&gt;Richard Matheson - I am Legend&lt;/li&gt;
+&lt;li&gt;Larry Niven - Ringworld&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;games&#34;&gt;Games&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Clair Obscure: Expedition 33&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;movies&#34;&gt;Movies&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Pulp Fiction&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Project Hail Mary&lt;/li&gt;
+&lt;li&gt;28 Years Later: The Bone Temple&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tv&#34;&gt;TV&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bridgerton Season 4&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>

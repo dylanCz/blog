@@ -1,7 +1,6 @@
 ---
 title: Reddit Fantasy Bingo
 date: 2026-04-01
-lastmod: 17/04/2026
 tags:
   - lists
 publish: "true"
