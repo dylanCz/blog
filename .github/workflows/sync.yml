@@ -2,8 +2,8 @@ name: Sync Obsidian posts
 
 on:
   schedule:
-    - cron: '0 * * * *'  # every hour
-  workflow_dispatch:       # manual trigger too
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   sync:

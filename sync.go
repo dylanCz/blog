@@ -54,6 +54,8 @@ func copyFile(src, dst string) error {
 }
 
 func main() {
+	// Remove existing docs (if you rename a doc in obsidian you will end up with both!)
+	os.RemoveAll(hugoPostDir)
 	os.MkdirAll(hugoPostDir, 0755)
 
 	entries, err := os.ReadDir(vaultDir)
