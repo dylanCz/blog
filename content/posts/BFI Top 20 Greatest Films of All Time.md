@@ -1,6 +1,6 @@
 ---
 title: BFI Top 20 Greatest Films of All Time
-date: 2026-03-28
+date: 2026-04-01
 tags:
   - lists
 publish: "true"
