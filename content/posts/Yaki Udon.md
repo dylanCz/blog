@@ -5,9 +5,9 @@ tags:
   - food
 publish: "true"
 ---
-Prep Time: 5 mins
-Cook Time: 10 mins
-Servings: 3
+- Prep Time: 5 mins
+- Cook Time: 10 mins
+- Servings: 3
 ## Ingredients:
 - Udon noodles 
 - Beef/Pork strips

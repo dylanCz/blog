@@ -5,9 +5,9 @@ tags:
   - food
 publish: "true"
 ---
-Prep Time: 5 mins
-Cook Time: 15 mins
-Servings: 2
+- Prep Time: 5 mins
+- Cook Time: 15 mins
+- Servings: 2
 ## Ingredients:
 - tin of chopped tomatoes
 - 4 cloves of garlic
