@@ -1,6 +1,6 @@
 ---
 title: Publishing Obsidian Notes to a Website
-date: 2026-04-17
+date: 2026-04-21
 tags:
   - software
 publish: "true"
@@ -14,6 +14,7 @@ I spent more time than I'd like to admit managing my blog posts in two places. I
 Every part of the stack is fully replaceable, so if anything happens to any of the above tools, it should be easy enough to find and use an alternative.
 
 ![](/attachments/publish_ObsidianFlow.svg)
+The basic idea is fairly simple:
 1. Push your notes to a private repository
 2. Configure your hugo site to periodically scan and pull your private notes 
 ## Privacy
