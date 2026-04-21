@@ -31,7 +31,7 @@ jobs:
           ATTACHMENTS_DIR="static/attachments"
 
           # Clean and recreate output directories
-          rm -rf "$POSTS_DIR"
+          rm -rf "$POSTS_DIR" "$ATTACHMENTS_DIR"
           mkdir -p "$POSTS_DIR" "$ATTACHMENTS_DIR"
 
           # Copy markdown files flagged with publish: "true"
