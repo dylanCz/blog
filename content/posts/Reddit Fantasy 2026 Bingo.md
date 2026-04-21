@@ -5,7 +5,7 @@ tags:
   - lists
 publish: "true"
 ---
-[Link](https://www.reddit.com/r/Fantasy/comments/1s9n3e6/official_rfantasy_2026_book_bingo_challenge/)
+[The Bingo can be found here.](https://www.reddit.com/r/Fantasy/comments/1s9n3e6/official_rfantasy_2026_book_bingo_challenge/)
 
 | <u>**Trans or Non-Binary Protagonist**</u>                        | <u>**Judge a Book by it's Title**</u>  | <u>**Translated**</u>           | <u>**Small Press or Self-Published**</u>                                  | <u>**Unusual Transportation**</u> |
 | ----------------------------------------------------------------- | -------------------------------------- | ------------------------------- | ------------------------------------------------------------------------- | --------------------------------- |
@@ -19,7 +19,7 @@ publish: "true"
 | <u>**Cat Squasher**</u>                                           | <u>**Feast your Eyes on This**</u>     | <u>**Published in the 70s**</u> | <u>**Politics and Court Intrigue**</u>                                    | <u>**Author of Colour**</u>       |
 | <font color="#ffff00">Brandon Sanderson - The Hero of Ages</font> |                                        |                                 |                                                                           |                                   |
 
-#### Five Short Stories - Ted Chiang - Stories of Your Life and Others
+## Five Short Stories - Ted Chiang - Stories of Your Life and Others
 Placeholder text.
-#### Cat Squasher - Brandon Sanderson - The Hero of Ages
+## Cat Squasher - Brandon Sanderson - The Hero of Ages
 Placeholder text.
