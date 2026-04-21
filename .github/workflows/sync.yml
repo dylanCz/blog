@@ -38,8 +38,6 @@ jobs:
           while IFS= read -r f; do
             if awk '/^---/{n++} n==1' "$f" | grep -q '^publish: "true"'; then
               cp "$f" "$POSTS_DIR/" && echo "Copied: $f"
-            else
-              echo "Skipped: $f"
             fi
           done < <(find "$VAULT_DIR" -name "*.md")
 
