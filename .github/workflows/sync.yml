@@ -21,15 +21,43 @@ jobs:
           token: ${{ secrets.OBSIDIAN_PAT }}
           path: vault
 
-      - name: Set up Go
-        uses: actions/setup-go@v5
-        with:
-          go-version: '1.21'
+      # - name: Set up Go
+      #   uses: actions/setup-go@v5
+      #   with:
+      #     go-version: '1.21'
 
-      - name: Run sync script
+      # - name: Run sync script
+      #   run: |
+      #     go mod tidy
+      #     go run sync.go
+
+      - name: Sync Obsidian posts to Hugo
         run: |
-          go mod tidy
-          go run sync.go
+          set -euo pipefail
+
+          VAULT_DIR="vault"
+          POSTS_DIR="content/posts"
+          ATTACHMENTS_DIR="content/attachments"
+
+          # Clean and recreate output directories
+          rm -rf "$POSTS_DIR" "$ATTACHMENTS_DIR"
+          mkdir -p "$POSTS_DIR" "$ATTACHMENTS_DIR"
+
+          # Copy markdown files flagged with publish: "true"
+          while IFS= read -r f; do
+            if awk '/^---/{n++} n==1' "$f" | grep -q '^publish: "true"'; then
+              cp "$f" "$POSTS_DIR/" && echo "Copied: $f"
+            else
+              echo "Skipped: $f"
+            fi
+          done < <(find "$VAULT_DIR" -name "*.md")
+
+          # Copy attachments prefixed with publish_ from any attachments/ subfolder
+          find "$VAULT_DIR" -type d -name "attachments" -exec find {} -maxdepth 1 -name "publish_*" \; | \
+            while IFS= read -r f; do
+              cp "$f" "$ATTACHMENTS_DIR/" && echo "Copied attachment: $(basename "$f")"
+            done
+
 
       - name: Commit and push changes
         run: |
