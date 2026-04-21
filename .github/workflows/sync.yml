@@ -28,7 +28,7 @@ jobs:
 
           VAULT_DIR="vault"
           POSTS_DIR="content/posts"
-          ATTACHMENTS_DIR="content/posts/attachments"
+          ATTACHMENTS_DIR="static/attachments"
 
           # Clean and recreate output directories
           rm -rf "$POSTS_DIR"
@@ -48,7 +48,6 @@ jobs:
             while IFS= read -r f; do
               cp "$f" "$ATTACHMENTS_DIR/" && echo "Copied attachment: $(basename "$f")"
             done
-
 
       - name: Commit and push changes
         run: |
