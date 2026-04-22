@@ -10,7 +10,7 @@ publish: "true"
 - For my initial climb I ran [Ryoma9901's Dual Mega team](https://pokepast.es/0cb44c6716420958):      
 ![](/attachments/publish_VGCregMA-ryoma.svg)
 ## Created 
-- V2 of my website! My old website was rather challenging to update, so having one based on markdown posts makes much more sense. Some improvements for the next phase is backlinks and sub-documents.
+- V2 of my website! My old website was rather challenging to update, so having one based on markdown posts makes much more sense. Looking forward to seeing how the site grows.
 ## Discovered
 - The CEO of Obsidian [Steph Ango's website](https://stephango.com/). Super neat website which has inspired my own website rewrite.
 ## Albums
