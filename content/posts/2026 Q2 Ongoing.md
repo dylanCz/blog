@@ -16,7 +16,7 @@ publish: "true"
 ## Albums
 - Gretel - Squish
 ## Books
-
+- Ted Chiang - Stories of Your Life and Others
 ## Games
 - Pokémon Champions
 ## Movies

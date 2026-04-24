@@ -1,12 +1,12 @@
 ---
-title: Mac Setup
+title: Software Configuration
 date: 2026-04-21
 tags:
   - software
 publish: "true"
 ---
-Here's what I install on my Mac, I'll maybe automate this eventually but there's a mix of installation methods so it's easier said than done.
-## Desktop
+Here's the software I use day to day, I try to avoid using the same provider to too many services.
+## Applications
 - [Firefox](https://www.firefox.com/)
 - [Qobuz](https://www.qobuz.com)
 - [Signal](https://signal.org)
@@ -26,4 +26,9 @@ Here's what I install on my Mac, I'll maybe automate this eventually but there's
 - git
 - hugo
 - tldr
+## Providers
+- Airvpn for VPN
+- Bitwarden for password management
+- Filen for cloud storage
+- Tutamail for email and calendar
 

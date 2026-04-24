@@ -7,19 +7,18 @@ publish: "true"
 ---
 [The Bingo can be found here.](https://www.reddit.com/r/Fantasy/comments/1s9n3e6/official_rfantasy_2026_book_bingo_challenge/)
 
-| <u>**Trans or Non-Binary Protagonist**</u>                        | <u>**Judge a Book by it's Title**</u>  | <u>**Translated**</u>           | <u>**Small Press or Self-Published**</u>                                  | <u>**Unusual Transportation**</u> |
-| ----------------------------------------------------------------- | -------------------------------------- | ------------------------------- | ------------------------------------------------------------------------- | --------------------------------- |
-|                                                                   |                                        |                                 |                                                                           |                                   |
-| <u>**The Afterlife**</u>                                          | <u>**Game Changer**</u>                | <u>**Vacation Spot**</u>        | <u>**Five Short Stories**</u>                                             | <u>**Older Protagonist**</u>      |
-|                                                                   |                                        |                                 | <font color="#ffff00">Ted Chiang - Stories of Your Life and Others</font> |                                   |
-| <u>**Duology Part 1**</u>                                         | <u>**Book Club or Readalong Book**</u> | <u>**Published in 2026**</u>    | <u>**Explorers and Rangers**</u>                                          | <u>**Duology Part 2**</u>         |
-|                                                                   |                                        |                                 |                                                                           |                                   |
-| <u>**One Word Title**</u>                                         | <u>**Non-Human Protagonist**</u>       | <u>**Middle Grade**</u>         | <u>**First Contact**</u>                                                  | <u>**Murder Mystery**</u>         |
-|                                                                   |                                        |                                 |                                                                           |                                   |
-| <u>**Cat Squasher**</u>                                           | <u>**Feast your Eyes on This**</u>     | <u>**Published in the 70s**</u> | <u>**Politics and Court Intrigue**</u>                                    | <u>**Author of Colour**</u>       |
-| <font color="#ffff00">Brandon Sanderson - The Hero of Ages</font> |                                        |                                 |                                                                           |                                   |
-
+| **Trans or Non-Binary Protagonist**  | **Judge a Book by it's Title**  | **Translated**           | **Small Press or Self-Published**            | **Unusual Transportation** |
+| ------------------------------------ | ------------------------------- | ------------------------ | -------------------------------------------- | -------------------------- |
+|                                      |                                 |                          |                                              |                            |
+| **The Afterlife**                    | **Game Changer**                | **Vacation Spot**        | **Five Short Stories**                       | **Older Protagonist**      |
+|                                      |                                 |                          | Ted Chiang - Stories of Your Life and Others |                            |
+| **Duology Part 1**                   | **Book Club or Readalong Book** | **Published in 2026**    | **Explorers and Rangers**                    | **Duology Part 2**         |
+|                                      |                                 |                          |                                              |                            |
+| **One Word Title**                   | **Non-Human Protagonist**       | **Middle Grade**         | **First Contact**                            | **Murder Mystery**         |
+|                                      |                                 |                          |                                              |                            |
+| **Cat Squasher**                     | **Feast your Eyes on This**     | **Published in the 70s** | **Politics and Court Intrigue**              | **Author of Colour**       |
+| Brandon Sanderson - The Hero of Ages |                                 |                          |                                              |                            |
 ## Five Short Stories - Ted Chiang - Stories of Your Life and Others
-Placeholder text.
+First time reading Ted Chiang and I'm thoroughly impressed. Considering how short some of these novella's are, it's amazing how much of an impact they can leave on you. Someone else aptly put that he's the master of taking a simple concept and stretching it to it's extremes. What if we could build a tower which pierces the heavens? What if we could remove people's ability to perceive physical beauty? What if 1 == 0? I really enjoyed this collection and think it is worth reading solely for the story that inspired the movie Arrival. Favourite's include: Story of Your Life, Tower of Babylon and Hell is the Absence of God.
 ## Cat Squasher - Brandon Sanderson - The Hero of Ages
 Placeholder text.
