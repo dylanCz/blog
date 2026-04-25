@@ -1,6 +1,6 @@
 ---
-title: BFI Top 20 Greatest Films of All Time - My Reviews
-date: 2026-04-01
+title: BFI Top 20 Greatest Films of All Time
+date: 2026-04-24
 tags:
   - lists
 publish: "true"

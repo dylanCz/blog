@@ -1,11 +1,11 @@
 ---
 title: Software Configuration
-date: 2026-04-21
+date: 2026-04-24
 tags:
   - software
 publish: "true"
 ---
-Here's the software I use day to day, I try to avoid using the same provider to too many services.
+Here's the software I use day to day. I try to avoid using the same provider for too many services (the proton suite is tempting but its putting all your eggs in one basket as they say).
 ## Applications
 - [Firefox](https://www.firefox.com/)
 - [Qobuz](https://www.qobuz.com)

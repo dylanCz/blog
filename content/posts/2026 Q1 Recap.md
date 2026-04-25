@@ -1,12 +1,10 @@
 ---
 title: 2026 Q1 Recap
+date: 2026-04-24
 tags:
   - diary
 publish: "true"
-created: April 16th 2026
-date modified: April 24th 2026
 ---
-
 ## Updates
 - I've started taking my SSBM practise a little bit more seriously. After some disappointment of not being on the Scottish PR and poor tournaments results in 2025, I want to take a push this year to see how far I can go. For now I'm focused on playing more high level opponents, analysing my gameplay more often and watching higher level falcos.
 - I'd quite like to give another fighting game a shot. I don't think anything will replace SSBM for me but it would be cool to have another game and community to be involved with. The two I'm considering are GGACR and MBAACC. I'll maybe enter a tournament for each of them and see how I feel!
