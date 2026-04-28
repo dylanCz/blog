@@ -1,6 +1,6 @@
 ---
 title: Software Configuration
-date: 2026-04-24
+date: 2026-04-27
 tags:
   - software
 publish: "true"
@@ -18,6 +18,8 @@ Here's the software I use day to day. I try to avoid using the same provider for
 - [Djay Pro](https://www.algoriddim.com/djay-pro-mac)
 - [Filen](https://filen.io/)
 - [Tuta](https://tuta.com/)
+- [Fedora Media Writer](https://github.com/FedoraQt/MediaWriter)
+	- xattr -c /Applications/FedoraMediaWriter.app
 ## CLI
 - container
 - eddie
