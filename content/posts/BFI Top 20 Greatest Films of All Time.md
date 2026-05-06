@@ -1,6 +1,6 @@
 ---
 title: BFI Top 20 Greatest Films of All Time
-date: 2026-04-24
+date: 2026-05-06
 tags:
   - lists
 publish: "true"
@@ -11,7 +11,10 @@ publish: "true"
 ## Persona - Ingmar Bergman
 ## Close-up - Abbas Kiarostami
 ## Meshes of the Afternoon - Maya Deren
-## The Searchers - John Ford
+## The Searchers - John Ford 
+### ⭐⭐⭐⭐½
+#### 05/05/26 - 70mm at the GFT
+A western epic set during the Texas-Indian wars, with a fantastic take on the Cowboy vs Indian Hollywood myth. We follow Ethan (John Wayne), accompanied by his adopted nephew, as he attempts to find his abducted niece. A tale of family, vengeance, interracial relations and miscegenation which is always subtly asking the question, what is Ethan really searching for?
 ## Cleo from 5 to 7 - Agnes Varda
 ## La Regle du jeu - Jean Renoir
 ## The Godfather - Francis Ford Coppola
