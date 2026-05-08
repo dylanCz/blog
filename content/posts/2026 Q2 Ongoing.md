@@ -13,18 +13,19 @@ publish: "true"
 ## Created 
 - Rewrite of my website! My old website was rather challenging to update, so having one based on markdown posts makes much more sense and I'm looking forward to seeing how the site grows. It's made using Hugo and the PaperMod theme, for more information, check out [[Publishing Obsidian Notes to a Website]].
 ## Discovered
-- The CEO of Obsidian [Steph Ango's website](https://stephango.com/). Super neat website which has inspired my own website rewrite.
-- Film Producer [Rastko Novakovic's website](https://www.rastko.co.uk/). Very cool bio and summary of projects.
+- The CEO of Obsidian [Steph Ango's website](https://stephango.com/). Super neat website which has inspired my own website rewrite
+- Film Producer [Rastko Novakovic's website](https://www.rastko.co.uk/). Very cool bio and summary of projects
 - [Andrey Listopadov's website](https://andreyor.st)
+- [Mitchell Hashimoto's website](https://mitchellh.com/), co-founder of Hashicorp and creator of Ghostty 
 ## Media
 ### Albums
 - Gretel - Squish
 - Jessie Ware - Superbloom
 - American Football - LP4
 ### Books
-- Ted Chiang - Stories of Your Life and Others
+- Ted Chiang - Stories of Your Life and Others 
 ### Games
 - Pokémon Champions
 ### Movies
-- John Ford - The Searchers
+- John Ford - The Searchers 
 ### TV
