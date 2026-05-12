@@ -1,6 +1,6 @@
 ---
 title: 2026 Q2 Ongoing
-date: 2026-05-07
+date: 2026-05-11
 tags:
   - diary
 publish: "true"
@@ -19,6 +19,7 @@ publish: "true"
 - [Mitchell Hashimoto's website](https://mitchellh.com/), co-founder of Hashicorp and creator of Ghostty 
 ## Media
 ### Albums
+- ***Kaatayra - Caminhos de Água***
 - Gretel - Squish
 - Jessie Ware - Superbloom
 - American Football - LP4
