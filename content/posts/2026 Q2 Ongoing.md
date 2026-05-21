@@ -21,6 +21,7 @@ publish: "true"
 ## Media
 ### Albums
 - ***Kaatayra - Caminhos de Água***
+- ***ThaiBoy Digital - Paradise***
 - Gretel - Squish
 - Jessie Ware - Superbloom
 - American Football - LP4
