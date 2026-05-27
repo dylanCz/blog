@@ -1,6 +1,6 @@
 ---
 title: 2026 Q2 Ongoing
-date: 2026-05-11
+date: 2026-05-20
 tags:
   - diary
 publish: "true"
@@ -17,11 +17,12 @@ publish: "true"
 - Film Producer [Rastko Novakovic's website](https://www.rastko.co.uk/). Very cool bio and summary of projects
 - [Andrey Listopadov's website](https://andreyor.st)
 - [Mitchell Hashimoto's website](https://mitchellh.com/), co-founder of Hashicorp and creator of Ghostty 
-- https://youtu.be/55pTFVoclvE
+- [Vasilios Syrakis - I was laid off at atlassian](https://youtu.be/55pTFVoclvE)
 ## Media
 ### Albums
 - ***Kaatayra - Caminhos de Água***
 - ***ThaiBoy Digital - Paradise***
+- tsubi club - trinket
 - Gretel - Squish
 - Jessie Ware - Superbloom
 - American Football - LP4
