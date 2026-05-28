@@ -1,6 +1,6 @@
 ---
 title: 2026 Q2 Ongoing
-date: 2026-05-20
+date: 2026-05-27
 tags:
   - diary
 publish: "true"
@@ -22,7 +22,10 @@ publish: "true"
 ### Albums
 - ***Kaatayra - Caminhos de Água***
 - ***ThaiBoy Digital - Paradise***
+- ***Tiffany Day - Halo***
 - tsubi club - trinket
+- Bladee - Silver Surfer
+- drug bug - Hell for a Basement
 - Gretel - Squish
 - Jessie Ware - Superbloom
 - American Football - LP4
