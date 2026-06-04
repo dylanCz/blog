@@ -31,6 +31,8 @@ publish: "true"
 - American Football - LP4
 ### Books
 - Ted Chiang - Stories of Your Life and Others 
+- Nana Kwame Adjei-Brenyah - Chain-Gang All-Stars
+- Brandon Sanderson - The Hero of Ages
 ### Games
 - Pokémon Champions
 ### Movies
