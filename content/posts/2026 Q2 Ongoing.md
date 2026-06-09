@@ -1,6 +1,6 @@
 ---
 title: 2026 Q2 Ongoing
-date: 2026-05-27
+date: 2026-06-08
 tags:
   - diary
 publish: "true"
@@ -20,6 +20,7 @@ publish: "true"
 - [Vasilios Syrakis - I was laid off at atlassian](https://youtu.be/55pTFVoclvE)
 ## Media
 ### Albums
+- ***leroy - status update music***
 - ***Kaatayra - Caminhos de Água***
 - ***ThaiBoy Digital - Paradise***
 - ***Tiffany Day - Halo***
