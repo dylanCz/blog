@@ -1,12 +1,13 @@
 ---
 title: 2026 Q2 Ongoing
-date: 2026-06-08
+date: 2026-06-30
 tags:
   - diary
 publish: "true"
 ---
 ## Updates
 - I finally made the swap to linux, Bazzite in particular. Been wanting to ditch windows for a while now, and since my plan of buying a steam machine is up in flames due to the rampocalypse, I bit the bullet and swapped my main gaming pc over. 
+- Bit of a game switch-up recently. Been playing a ton of CS2 and NES Tetris and a lot less SSBM. Current long-term goals are 20k in premier and a maxout.
 - Pokemon Champions is interesting...  I was quite looking forward to see what Nintendo would cook up, and while I think the general idea was well-founded, I can't help but feel the execution is poor. It's so much faster than S/V so tournaments will be nicer to watch and the free to play rewards are generous. But there's no teamsheet support and ranked is of course Bo1. Most egregiously there's no way to save replays? Definitely a little bit disappointing, but I'll keep an open mind for now.
 - For my initial run to master ball tier I ran [Ryoma9901's Dual Mega team](https://pokepast.es/0cb44c6716420958):      
 ![](/attachments/publish_VGCregMA-ryoma.svg)
@@ -18,6 +19,8 @@ publish: "true"
 - [Andrey Listopadov's website](https://andreyor.st)
 - [Mitchell Hashimoto's website](https://mitchellh.com/), co-founder of Hashicorp and creator of Ghostty 
 - [Vasilios Syrakis - I was laid off at atlassian](https://youtu.be/55pTFVoclvE)
+- [The Competitive Programming notebook](https://github.com/bqi343/cp-notebook)
+- [Fractal's website](https://fractal161.github.io/)
 ## Media
 ### Albums
 - ***leroy - status update music***
@@ -38,4 +41,5 @@ publish: "true"
 - Pokémon Champions
 ### Movies
 - John Ford - The Searchers 
+- Damien Chazelle - Whiplash
 ### TV
