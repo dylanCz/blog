@@ -24,3 +24,4 @@ First time reading Ted Chiang and I'm thoroughly impressed. Considering how shor
 Placeholder text.
 ## Cat Squasher - Brandon Sanderson - The Hero of Ages
 Placeholder text.
+
