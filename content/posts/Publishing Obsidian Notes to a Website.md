@@ -3,6 +3,7 @@ title: Publishing Obsidian Notes to a Website
 date: 2026-04-24
 tags:
   - software
+  - obsidian
 publish: "true"
 ---
 I spent more time than I'd like to admit managing my blog posts in two places. I'd write them in markdown in Obsidian and then copy and paste them into my websites HTML. It was not pretty... So in an effort to make my life easier I setup this blog! Every single post is automatically imported from my personal Obsidian Vault. This doc will go over how everything works and possible improvements.  
