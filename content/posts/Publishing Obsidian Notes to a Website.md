@@ -1,6 +1,5 @@
 ---
 title: Publishing Obsidian Notes to a Website
-date: 2026-04-24
 tags:
   - software
   - obsidian

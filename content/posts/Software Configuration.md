@@ -1,6 +1,5 @@
 ---
 title: Software Configuration
-date: 2026-04-27
 tags:
   - software
 publish: "true"
