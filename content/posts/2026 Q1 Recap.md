@@ -1,6 +1,5 @@
 ---
 title: 2026 Q1 Recap
-date: 2026-04-24
 tags:
   - diary
 publish: "true"
@@ -15,25 +14,3 @@ publish: "true"
 - [Falco Discord Resource Compilation](https://craigjohnson.notion.site/Falco-Discord-Resource-Compilation-3bc9633b641e4df4b531130579d1d051)
 - [Ludwig and Michael's Tip to Tip Japan series](https://www.youtube.com/playlist?list=PLLGT0cEMIAzeq_YFR_iHm831-GuOWlwUJ), best youtube series I've watched so far
 - [Liam - How I Ruined Ludwig's Minecraft Tournament](https://www.youtube.com/watch?v=321SvY8gDyc), best youtube video I've watched so far
-## Albums
-- ***underscores - U***
-- ***Hemlocke Springs - the apple tree under the sea***
-- Mandy, Indiana - URGH
-- Cardinals - Masquerade
-- Mitski - Nothing's About to Happen to Me
-- By Storm - My Ghosts Go Ghost
-- Danny L Harle - Cerulean
-- Apparat - A Hum Of Maybe
-## Books
-- ***Agatha Christie - The Murder of Roger Ackroyd*** 
-- Brandon Sanderson - The Well of Ascension
-- Richard Matheson - I am Legend
-- Larry Niven - Ringworld
-## Games
-- ***Clair Obscure: Expedition 33*** 
-## Movies
-- ***Pulp Fiction*** 
-- Project Hail Mary
-- 28 Years Later: The Bone Temple
-## TV
-- Bridgerton Season 4
