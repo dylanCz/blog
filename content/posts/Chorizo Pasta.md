@@ -24,3 +24,5 @@ publish: "true"
 5. Add cooked pasta and chorizo, mix and serve
 ### Notes
 Banger dish, serves 2 portions.
+
+[[Recipes]]

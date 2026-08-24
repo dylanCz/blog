@@ -24,3 +24,5 @@ publish: "true"
 4. Assemble and enjoy!
 ### Notes
 Amazing comfort food, quite easy to make as well.
+
+[[Recipes]]
