@@ -13,7 +13,7 @@ I spent more time than I'd like to admit managing my blog posts in two places. I
 
 Every part of the stack is fully replaceable, so if anything happens to any of the above tools, it should be easy enough to find and use an alternative.
 
-![](/attachments/publish_ObsidianFlow.svg)
+![](publish_ObsidianFlow.svg)
 The basic idea is fairly simple:
 1. Push your notes to a private repository
 2. Configure your hugo site to periodically scan and pull your private notes 
